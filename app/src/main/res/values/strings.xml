@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PhantomWalletClone</string>
+    <string name="deposit">Deposit</string>
+    <string name="buy">Buy</string>
+    <string name="send">Send</string>
+    <string name="solana">Solana</string>
+    <string name="ethereum">Ethereum</string>
+    <string name="polygon">Polygon</string>
+    <string name="money">$0.00</string>
+    <string name="money_plus">+$0.00</string>
+    <string name="money_plus2">+$0</string>
+    <string name="percent">+0.00%</string>
+    <string name="wallet">Wallet 1</string>
+    <string name="sol">0 SOL</string>
+    <string name="eth">0 ETH</string>
+    <string name="matic">0 MATIC</string>
+</resources>
